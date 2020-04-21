@@ -1,6 +1,6 @@
 public class Lab1_1 {
     public static void main(String[] args){
-        int i,j;
+        int i,j,k;
         int n=9;
         for(i=1;i<=n;i++)
         {
