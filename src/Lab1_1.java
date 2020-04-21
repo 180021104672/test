@@ -1,6 +1,7 @@
 public class Lab1_1 {
     public static void main(String[] args){
-        int i,j,k;
+        int i,j;
+        System.out.println("场景三：小袁修改了部分源码，提交到远程仓库");
         int n=9;
         for(i=1;i<=n;i++)
         {
